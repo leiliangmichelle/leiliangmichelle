@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h3 align="center">A passionate software engineer based in NYC.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leiliangmichelle" alt="leiliangmichelle" /></a> </p>
+
 
 - 📫 How to reach me **m.leiliang@gmail.com**
 
