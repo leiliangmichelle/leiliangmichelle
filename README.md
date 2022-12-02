@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
   ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lei-michelle-liang/" height="30" width="40" /></a>
 </p>
