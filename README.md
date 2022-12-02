@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me **m.leiliang@gmail.com**
-
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
