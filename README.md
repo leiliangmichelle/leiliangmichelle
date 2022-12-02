@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lei-michelle-liang/" height="30" width="40" /></a>
 </p>
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front End</h4>
 <p align="left"> 
