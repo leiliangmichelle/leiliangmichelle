@@ -2,11 +2,14 @@
 <h2 align="center">A passionate software engineer</h2>
 
 <div align='center'>
-📍 Based in Brooklyn, New York
+ <ul>
+  <li>📍 Based in Brooklyn, New York</li>
+ 
 <br></br>
-😄 Pronouns: she/her/hers
+<li>😄 Pronouns: she/her/hers<li>
 <br></br>
- 📫 How to reach me **m.leiliang@gmail.com**
+<li> 📫 How to reach me **m.leiliang@gmail.com**</li>
+ </ul>
  </div>
 
 <h3 align="left">Connect with me:</h3>
