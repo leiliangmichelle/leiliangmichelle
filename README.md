@@ -3,9 +3,9 @@
 
 <h4 align="center">📍 Based in Brooklyn, New York</h4>
 <br></br>
-😄 Pronouns: she/her/hers
+<h4 align="center">😄 Pronouns: she/her/hers</h4>
 <br></br>
-📫 How to reach me **m.leiliang@gmail.com**
+<h4 align="center">📫 How to reach me **m.leiliang@gmail.com**</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
