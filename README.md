@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h2 align="center">A passionate software engineer</h2>
 
 📍 Based in Brooklyn, New York
 <br></br>
