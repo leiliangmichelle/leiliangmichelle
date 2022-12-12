@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
 
+<div align='center'>
 📍 Based in Brooklyn, New York
 <br></br>
 😄 Pronouns: she/her/hers
 <br></br>
  📫 How to reach me **m.leiliang@gmail.com**
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
