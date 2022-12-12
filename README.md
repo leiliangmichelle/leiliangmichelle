@@ -4,9 +4,7 @@
 📍 Based in Brooklyn, New York
 <br></br>
 😄 Pronouns: she/her/hers
- 
-
-- 📫 How to reach me **m.leiliang@gmail.com**
+ 📫 How to reach me **m.leiliang@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
