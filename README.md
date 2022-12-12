@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
 
-<h4 align="center>📍 Based in Brooklyn, New York</h4>
+<h4 align="center">📍 Based in Brooklyn, New York</h4>
 <br></br>
 😄 Pronouns: she/her/hers
 <br></br>
