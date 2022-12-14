@@ -5,7 +5,7 @@
 <br></br>
 😄 Pronouns: she/her/hers
 <br></br>
-📫 How to reach me m.leiliang@gmail.com
+
  👩🏻‍💻I’m currently working on **Leetcode (data structure and algorithm)**
 
  📓I’m currently learning **NextJS, React Native (I am always on the hunt of the next thing to learn!)**
