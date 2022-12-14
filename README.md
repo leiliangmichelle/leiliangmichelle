@@ -6,15 +6,15 @@
 😄 Pronouns: she/her/hers
 <br></br>
 📫 How to reach me m.leiliang@gmail.com
-- 👩🏻‍💻I’m currently working on **Leetcode (data structure and algorithm)**
+ 👩🏻‍💻I’m currently working on **Leetcode (data structure and algorithm)**
 
-- 📓I’m currently learning **NextJS, React Native (I am always on the hunt of the next thing to learn!)**
+ 📓I’m currently learning **NextJS, React Native (I am always on the hunt of the next thing to learn!)**
 
-- 💬 Ask me about **javascript**
+💬 Ask me about **javascript**
 
-- 📫 How to reach me **m.leiliang@gmail.com**
+ 📫 How to reach me **m.leiliang@gmail.com**
 
-- 💖Fun fact **I spent the majority of my childhood in Shanghai. Such a beautiful city!**
+ 💖Fun fact **I spent the majority of my childhood in Shanghai. Such a beautiful city!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
