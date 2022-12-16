@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
 <p>Hello hello, welcome to my github! You've found it!</p>
-📍 Based in Brooklyn, New York
+📍 Based in **Brooklyn, New York**
 <br></br>
-😄 Pronouns: she/her/hers
+😄 Pronouns: **she/her/hers**
 <br></br>
 
  👩🏻‍💻I’m currently working on **Leetcode (data structure and algorithm, AKA the hard stuff)**
@@ -14,7 +14,7 @@
 
  📫 How to reach me **m.leiliang@gmail.com (say hello, shoot a message!)**
 
- 💖Fun fact about me **I spent the majority of my childhood in Shanghai. Such a beautiful city! (seriously, if you havent visited it, go visit!)**
+ 💖Fun fact about me: **I spent the majority of my childhood in Shanghai. Such a beautiful city! (seriously, if you havent visited it, go visit!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
