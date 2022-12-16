@@ -2,8 +2,8 @@
 <h2 align="center">A passionate software engineer</h2>
 <p>Hello hello, welcome to my github! You've found it!</p>
 📍 Based in **Brooklyn, New York**
-<br></br>
-😄 Pronouns: **she/her/hers**
+
+😄 Pronouns: she/her/hers
 <br></br>
 
  👩🏻‍💻I’m currently working on **Leetcode (data structure and algorithm, AKA the hard stuff)**
