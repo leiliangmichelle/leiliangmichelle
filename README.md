@@ -6,7 +6,7 @@
 😄 Pronouns: she/her/hers
 <br></br>
 
- 👩🏻‍💻I’m currently working on Leetcode (data structure and algorithm, AKA the hard stuff)
+ 👩🏻‍💻I’m currently working on Leetcode (data structure and algorithm)
 
  📓I’m currently learning NextJS, React Native (I am always on the hunt of the next thing to learn!)
 
