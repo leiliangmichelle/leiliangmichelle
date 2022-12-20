@@ -14,7 +14,7 @@
 
  📫 How to reach me **m.leiliang@gmail.com (say hello, shoot a message!)**
 
- 💖Fun fact about me: I spent the majority of my childhood in Shanghai. Such a beautiful city! (seriously, if you havent visited it, go visit!)
+ 💖Fun fact about me: I spent the majority of my childhood in Shanghai. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
