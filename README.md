@@ -6,15 +6,15 @@
 😄 Pronouns: she/her/hers
 <br></br>
 
- 👩🏻‍💻I’m currently working on Leetcode (data structure and algorithm)
+ 👩🏻‍💻 I’m currently working on Leetcode (data structure and algorithm)
 
- 📓I’m currently learning NextJS, React Native (I am always on the hunt of the next thing to learn!)
+ 📓 I’m currently learning NextJS, React Native (I am always on the hunt of the next thing to learn!)
 
 💬 Ask me about javascript (or really, anything)
 
  📫 How to reach me **m.leiliang@gmail.com (say hello, shoot a message!)**
 
- 💖Fun fact about me: I spent the majority of my childhood in Shanghai. 
+ 💖 Fun fact about me: I spent the majority of my childhood in Shanghai
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
