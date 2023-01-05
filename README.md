@@ -17,7 +17,9 @@
  💖 Fun fact about me: I spent the majority of my childhood in Shanghai
  
 <h3 align="left">Recent Projects</h3>
-<a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">FEC</a>
+<a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a>
+<a href='https://github.com/SDC-Isabelle/q-a'>Atelier API</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lei-michelle-liang/" height="30" width="40" /></a>
