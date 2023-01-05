@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leiliangmichelle.visitor-badge&left_text=Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leiliangmichelle.visitor-badge&left_text=Profile Views)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
