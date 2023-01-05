@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/leiliangmichelle/count.svg)
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
 <p>Hello hello, welcome to my github! You've found it!</p>
