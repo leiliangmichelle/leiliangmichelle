@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leiliangmichelle.visitor-badge&left_text=Visitors)
 <div id='header' align='center'>
-<img src="https://giphy.com/embed/HwBlFQZFcAoUcPHZdX" width="480" height="480" /><p><a href="https://giphy.com/stickers/GDevs-sticker-community-google-HwBlFQZFcAoUcPHZdX"></a></p>
+<img src='https://giphy.com/embed/HwBlFQZFcAoUcPHZdX' width='100'/>
  </div>
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
