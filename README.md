@@ -19,7 +19,8 @@
 <h3 align="left">Recent Projects</h3>
 <a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a>
 <br></br>
-<a href='https://github.com/SDC-Isabelle/q-a'>Atelier API</a>
+<a href='https://github.com/SDC-Isabelle/q-a'>Atelier API: the back end for Atelier that can handle 1,000 requests per second</a><br></br>
+<a href='https://github.com/Neighborly-Saffron/Neighborly'>Neighborly: a private full stack social media platform</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
