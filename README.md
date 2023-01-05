@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/leiliangmichelle/count.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leiliangmichelle.visitor-badge&left_text=MyPageVisitors)
 <h1 align="center">Hi 👋, I'm Michelle (Lei) Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
 <p>Hello hello, welcome to my github! You've found it!</p>
