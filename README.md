@@ -8,7 +8,7 @@
 
  👩🏻‍💻 I’m currently working on Leetcode (data structure and algorithm)
 
- 📓 I’m currently learning NextJS, React Native (I am always on the hunt of the next thing to learn!)
+ 📓 I’m currently learning TypeScript, React Native (I am always on the hunt of the next thing to learn!)
 
 💬 Ask me about javascript (or really, anything)
 
