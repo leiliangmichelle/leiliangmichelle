@@ -17,10 +17,12 @@
  💖 Fun fact about me: I spent the majority of my childhood in Shanghai
  
 <h3 align="left">Recent Projects</h3>
-<a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a>
-<br></br>
-<a href='https://github.com/SDC-Isabelle/q-a'>Atelier API: the back end for Atelier that can handle 1,000 requests per second</a><br></br>
-<a href='https://github.com/Neighborly-Saffron/Neighborly'>Neighborly: a private full stack social media platform</a>
+<ul>
+<li><a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a></li>
+
+<li><a href='https://github.com/SDC-Isabelle/q-a'>Atelier API: the back end for Atelier that can handle 1,000 requests per second</a></li>
+<li><a href='https://github.com/Neighborly-Saffron/Neighborly'>Neighborly: a private full stack social media platform</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
