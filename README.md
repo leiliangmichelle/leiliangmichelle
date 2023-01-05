@@ -18,6 +18,7 @@
  
 <h3 align="left">Recent Projects</h3>
 <a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a>
+<br></br>
 <a href='https://github.com/SDC-Isabelle/q-a'>Atelier API</a>
 
 <h3 align="left">Connect with me:</h3>
