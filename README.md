@@ -42,4 +42,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leiliangmichelle&show_icons=true&locale=en" alt="leiliangmichelle" /></p>
 
-![Snake animation](https://github.com/leiliangmichelle/leiliangmichelle/blob/output/github-contribution-grid-snake.svg)
