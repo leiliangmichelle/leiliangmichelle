@@ -33,9 +33,6 @@
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="https://www.linkedin.com/in/lei-michelle-liang/"  /></a></p>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
