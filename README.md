@@ -4,6 +4,13 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Michelle Liang</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Johnny.;I+love+open-source.;I+love+secure+code.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
+
+
+
 <h2 align="center">A passionate software engineer</h2>
 <div align="center"><a href="https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="https://www.linkedin.com/in/lei-michelle-liang/"  /></a></div>
 <h3 align="left">About Me</h3>
