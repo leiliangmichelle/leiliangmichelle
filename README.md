@@ -32,9 +32,9 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lei-michelle-liang/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lei-michelle-liang/" height="30" width="40" /></a></p>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</p>
+
 
 
 
