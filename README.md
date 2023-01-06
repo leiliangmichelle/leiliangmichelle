@@ -9,9 +9,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+name's+Michelle.;I+am+a+passionate+software+engineer.;I+am+a+team+player.;I+am+a+problem+solver.;&center=true&width=500&height=90"></a>
 </p>
 
-
-
-<h2 align="center">A passionate software engineer</h2>
 <div align="center"><a href="https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="https://www.linkedin.com/in/lei-michelle-liang/"  /></a></div>
 <h3 align="left">About Me</h3>
 📍 Based in Brooklyn, New York
