@@ -3,9 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Michelle (Lei)</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Michelle Liang</h1>
 <h2 align="center">A passionate software engineer</h2>
-<p>Hello hello, welcome to my github! You've found it!</p>
+
 <h3 align="left">About Me</h3>
 📍 Based in Brooklyn, New York
 <br></br>
