@@ -1,5 +1,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leiliangmichelle.visitor-badge&left_text=ProfileViews) 
 
+https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
