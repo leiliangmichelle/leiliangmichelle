@@ -12,7 +12,7 @@
 
 
 <h3 align="left">About Me</h3>
-📍 Based in New York City
+📍 Based in New York City (Open to relocate/remote)
 <br></br>
 😄 Pronouns: she/her/hers
 <br></br>
