@@ -21,7 +21,7 @@
 
  📓 I’m currently learning TypeScript, Python (I am always on the hunt of the next thing to learn!)
 
- 💬 Ask me about javascript (or really, anything)
+ 💬 Ask me about  Javascript 
 
  📫 How to reach me **m.leiliang@gmail.com (say hello, shoot a message!)**
 
