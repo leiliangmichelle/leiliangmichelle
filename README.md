@@ -10,6 +10,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+name's+Michelle.;I+am+a+passionate+software+engineer.;I+am+a+team+player.;I+am+a+problem+solver.;&center=true&width=500&height=90"></a>
 </p>
 
+<h3 align="left">Recent Projects</h3>
+<ul>
+<li><a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a></li>
+
+<li><a href='https://github.com/SDC-Isabelle/q-a'>Atelier API: the back end for Atelier that can handle 1,000 requests per second</a></li>
+<li><a href='https://github.com/Neighborly-Saffron/Neighborly'>Neighborly: a private full stack social media platform</a></li>
+</ul>
 
 <h3 align="left">About Me</h3>
 📍 Based in New York City (Open to relocate/remote)
@@ -27,13 +34,7 @@
 
  💖 Fun fact: I spent the majority of my childhood in Shanghai
  
-<h3 align="left">Recent Projects</h3>
-<ul>
-<li><a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a></li>
 
-<li><a href='https://github.com/SDC-Isabelle/q-a'>Atelier API: the back end for Atelier that can handle 1,000 requests per second</a></li>
-<li><a href='https://github.com/Neighborly-Saffron/Neighborly'>Neighborly: a private full stack social media platform</a></li>
-</ul>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
