@@ -24,7 +24,7 @@
 😄 Pronouns: she/her/hers
 <br></br>
 
- 👩🏻‍💻 I’m currently studying for AWS Certified Solutions Architect – Associate (SAA-C03) exam!
+ 👩🏻‍💻 I’m currently studying for AWS Certified Solutions Architect – Associate (SAA-C03) exam
 
  💬 Ask me about Javascript 
 
