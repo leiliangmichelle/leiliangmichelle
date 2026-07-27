@@ -30,14 +30,10 @@
 
  📫 How to reach me **m.leiliang@gmail.com (say hello, shoot a message!)**
 
- 💖 Fun facts:
+💖 <strong>Fun Facts</strong><br>
+&nbsp;&nbsp;🌏 I spent most of my childhood in Shanghai, China<br>
+&nbsp;&nbsp;🏃 I ran my first-ever 5K in Central Park in May 2026
  
-   🌏 I spent most of my childhood in Shanghai, China.
-   
-   🏃 I ran my first-ever 5K in Central Park in May 2026.
- 
-
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lei-michelle-liang/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="https://www.linkedin.com/in/lei-michelle-liang/"  /></a></p>
