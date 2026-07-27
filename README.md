@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+name's+Michelle.;I+am+a+passionate+software+engineer.;I+am+a+team+player.;I+am+a+problem+solver.;&center=true&width=500&height=90"></a>
 </p>
 
-<h3 align="left">Recent Projects</h3>
+<h3 align="left">Projects</h3>
 <ul>
 <li><a href="https://github.com/Front-End-Retail/Atelier-Front-End/tree/Development">Atelier: an E-commerce storefront that has over 1 million unique products</a></li>
 
@@ -19,7 +19,7 @@
 </ul>
 
 <h3 align="left">About Me</h3>
-📍 Based in New York City (Open to relocate/remote)
+📍 Based in New York City
 <br></br>
 😄 Pronouns: she/her/hers
 <br></br>
