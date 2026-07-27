@@ -24,15 +24,15 @@
 😄 Pronouns: she/her/hers
 <br></br>
 
- 👩🏻‍💻 I’m currently working on Leetcode (data structure and algorithm)
+ 👩🏻‍💻 I’m currently studying for AWS Certified Solutions Architect – Associate (SAA-C03) exam!
 
- 📓 I’m currently learning TypeScript, Python (I am always on the hunt of the next thing to learn!)
-
- 💬 Ask me about  Javascript 
+ 💬 Ask me about Javascript 
 
  📫 How to reach me **m.leiliang@gmail.com (say hello, shoot a message!)**
 
- 💖 Fun fact: I spent the majority of my childhood in Shanghai
+ 💖 Fun facts:
+   🌏 I spent most of my childhood in Shanghai, China.
+   🏃 I ran my first-ever 5K in Central Park in May 2026.
  
 
 
